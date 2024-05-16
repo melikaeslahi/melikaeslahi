@@ -10,7 +10,9 @@
   <a href="https://melikaeslahi.ir"><img src="https://img.shields.io/badge/Web Site-d5d5d5?style=for-the-badge&&logoColor=0A0209" alt="web site " ></a>
 </div>
 <br>
+<h3>
  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+</h3>
 
 ```javascript
 const MelikaEslahi = {
