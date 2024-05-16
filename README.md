@@ -4,9 +4,9 @@
   <br><br>
    
  
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username  melika eslahi" /></a>
+  <a href="https://www.linkedin.com/in/melika-eslahi-91b3b6221"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username  melika eslahi" /></a>
   <a href="mailto:melika.eslahi@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of  melikaeslahi i.e.   melika.eslahi@gmail.com" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" alt="profile of Discord with username anmol_baranwal(Anmol#7140)" ></a>
+  <a href="https://instagram.com/meliesdevv"><img src="https://img.shields.io/badge/Instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" alt="profile of Discord with username anmol_baranwal(Anmol#7140)" ></a>
   <a href="https://melikaeslahi.ir"><img src="https://img.shields.io/badge/Web Site-d5d5d5?style=for-the-badge&&logoColor=0A0209" alt="web site " ></a>
 </div>
 <br>
