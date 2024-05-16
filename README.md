@@ -17,9 +17,8 @@
 ```javascript
 const MelikaEslahi = {
   pronouns: "she" | "woman",
-  code: [Javascript,  PHP, HTML, CSS, ],
-  tools: [React, Redux,Nextjs , Laravel    ],
- 
+  code: [Javascript,  PHP, HTML, CSS],
+  tools: [React, Redux,Nextjs , Laravel], 
 }
 ```
  
