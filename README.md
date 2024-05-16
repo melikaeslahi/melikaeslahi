@@ -1,4 +1,4 @@
-<h1 style={alignText:center;}> hi I`m melikaeslahi </h1>
+<h1 style={textAlign:center;}> hi I`m melikaeslahi </h1>
 <br />
 
 <!--
