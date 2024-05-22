@@ -25,8 +25,8 @@ const MelikaEslahi = {
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=melikaeslahi&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melikaeslahi&show_icons=true&theme=radical)
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=melikaeslahi&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melikaeslahi&hide=javascript,css,scss,html&theme=tokyonight)
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=melikaeslahi&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
  
