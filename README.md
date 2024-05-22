@@ -23,9 +23,8 @@ const MelikaEslahi = {
 ```
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=melikaeslahi&theme=dark&hide_border=true)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melikaeslahi&show_icons=true&theme=radical)
- 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melikaeslahi&hide=javascript,css,scss,html&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melikaeslahi&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
  
  
 
